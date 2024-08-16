@@ -1,4 +1,4 @@
-# some mini project description
+# some mini project description 
 
 1. Write a Python program that asks the user to enter their marks. 
 
