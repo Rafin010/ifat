@@ -9,9 +9,6 @@ Marks >= 60 and < 70: Grade D
 Marks < 60: Grade F
 '''
 
-from distutils.command import upload
-
-
 marks = float(input("Enter your marks: "))
 
 if marks >= 90:
