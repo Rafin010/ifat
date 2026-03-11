@@ -181,3 +181,6 @@ elif number % 5 == 0:
 else:
     print(f"{number} is not divisible by either 5 or 7.")      
 
+#somting
+
+
